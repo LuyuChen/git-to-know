@@ -1,0 +1,2 @@
+1. How to abort git commit --amend?
+ Saving the file with no contents will abort the amend.
